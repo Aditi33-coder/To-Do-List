@@ -12,9 +12,9 @@
 
 # Objective : The objective of this project is to keep a record of a person's day to day goals and help the person to track thier performance accordingly
 
-# Key Activities : # 1)Task Management: Add, Remove the tasks 
-                  # 2) Task Viewing: Mark the task complete or incomplete accordingly 
+<h3>Key Activities</h3> :  1)Task Management: Add, Remove the tasks 
+                           2) Task Viewing: Mark the task complete or incomplete accordingly 
 
-# Technologies Used: # 1)HTML - gave the overall structure 
-                   # 2)CSS - used for styling 
-                   # 3)JAVASCRIPT- used to see the behaviour of the functions used 
+<h3>Technologies Used</h3>: 1)HTML - gave the overall structure 
+                            2)CSS - used for styling 
+                            3)JAVASCRIPT- used to see the behaviour of the functions used 
