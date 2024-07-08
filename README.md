@@ -8,7 +8,8 @@
 <h2>Overview of Project</h2> 
 
 # Project : To Do List Application
-![Screenshot 2024-07-05 154601](https://github.com/Aditi33-coder/Aditi-Verma/assets/139349539/7982fb4a-4458-41dd-9588-22b2b1f1526d)
+
+![image](https://github.com/Aditi33-coder/To-Do-List/assets/139349539/30259f21-ba0e-4cbf-a9e7-8ac124520fa2)
 
 <h3>Objective  : The objective of this project is to keep a record of a person's day to day goals and help the person to track thier performance accordingly</h3>
 
